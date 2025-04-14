@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation("io.javalin:javalin:6.5.0")
+    implementation("io.javalin:javalin:6.6.0")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.8.1")
     implementation("com.fasterxml.jackson.core:jackson-databind:2.18.3")
     implementation("org.slf4j:slf4j-simple:2.0.17")

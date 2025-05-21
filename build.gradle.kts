@@ -1,6 +1,6 @@
 plugins {
     kotlin("jvm") version "2.1.21"
-    kotlin("plugin.serialization") version "2.1.20" // Add serialization plugin
+    kotlin("plugin.serialization") version "2.1.21" // Add serialization plugin
     application
 }
 

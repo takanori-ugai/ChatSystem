@@ -2,7 +2,7 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 plugins {
     kotlin("jvm") version "2.3.20"
-    kotlin("plugin.serialization") version "2.3.10" // Add serialization plugin
+    kotlin("plugin.serialization") version "2.3.20" // Add serialization plugin
     application
 }
 

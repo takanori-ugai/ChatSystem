@@ -18,7 +18,7 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.11.0")
     implementation("com.fasterxml.jackson.core:jackson-databind:2.21.3")
     implementation("org.slf4j:slf4j-simple:2.0.18")
-    testImplementation("org.jetbrains.kotlin:kotlin-test-junit5:2.3.21") // Specify test dependency version
+    testImplementation("org.jetbrains.kotlin:kotlin-test-junit5:2.4.0") // Specify test dependency version
 }
 
 application {

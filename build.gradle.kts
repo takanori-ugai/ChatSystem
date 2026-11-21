@@ -15,7 +15,7 @@ repositories {
 
 dependencies {
     implementation("io.javalin:javalin:7.2.4")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.12.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.13.0")
     implementation("tools.jackson.core:jackson-databind:3.3.0")
     implementation("org.slf4j:slf4j-simple:2.0.20")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit5:2.4.21") // Specify test dependency version

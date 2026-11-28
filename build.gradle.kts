@@ -14,7 +14,7 @@ repositories {
 }
 
 dependencies {
-    implementation("io.javalin:javalin:7.2.4")
+    implementation("io.javalin:javalin:7.3.0")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.13.0")
     implementation("tools.jackson.core:jackson-databind:3.3.0")
     implementation("org.slf4j:slf4j-simple:2.0.20")
